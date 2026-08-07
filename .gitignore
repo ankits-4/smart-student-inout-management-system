@@ -1,0 +1,27 @@
+# Excel temporary files
+~$*.xls*
+*.tmp
+
+# Excel backup files
+*.xlk
+
+# VBA temporary files
+*.exd
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary folders
+tmp/
+temp/
+
+# Personal/local files
+private/
+backup/
+backups/
+
+# IDE / editor files
+.vscode/
+.idea/
